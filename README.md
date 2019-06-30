@@ -6,25 +6,25 @@ Premium autoscript installer used to install SSH, STUNNEL, OVPN, and PPTP VPN on
 
 - Centos 6 x86 & x64
 
-`yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/daybreakersx/premscript/master/req/centos6.sh && chmod +x centos6.sh && ./centos6.sh && rm -f centos6.sh && history -c`
+`yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/andrixxxx/premscript/master/req/centos6.sh && chmod +x centos6.sh && ./centos6.sh && rm -f centos6.sh && history -c`
 
 
 
 - Centos 7 (OVPN not included)
 
-`yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/daybreakersx/premscript/master/centos7.sh && chmod +x centos7.sh && ./centos7.sh && rm -f centos7.sh && history -c`
+`yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/andrixxxx/premscript/master/centos7.sh && chmod +x centos7.sh && ./centos7.sh && rm -f centos7.sh && history -c`
 
 
 
 - Debian 7 x86 & x64
 
-`apt-get -y install wget && wget https://raw.githubusercontent.com/daybreakersx/premscript/master/deb7.sh && chmod +x deb7.sh && ./deb7.sh && rm -f deb7.sh && history -c`
+`apt-get -y install wget && wget https://raw.githubusercontent.com/andrixxxx/premscript/master/deb7.sh && chmod +x deb7.sh && ./deb7.sh && rm -f deb7.sh && history -c`
 
 
 
 - Debian 8 x86 & x64
 
-`apt-get -y install wget && wget https://raw.githubusercontent.com/daybreakersx/premscript/master/debian8.sh && chmod +x debian8.sh && ./debian8.sh && rm -f debian8.sh && history -c`
+`apt-get -y install wget && wget https://raw.githubusercontent.com/andrixxxx/premscript/master/debian8.sh && chmod +x debian8.sh && ./debian8.sh && rm -f debian8.sh && history -c`
 
 
 
